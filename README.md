@@ -10,7 +10,7 @@ A simple expenses tracking system built with Node.js, Express, and SQLite for ma
    --- git clone <repository-url>
    
 2. Navigate to the project directory:
-   --- cd finance-tracker
+   --- cd Personal-Expense-Tracker
     
 3. Install the dependencies: It will install all necessary dependencies-[express, sqlite, sqlite3, path, nodemon]
     --- npm install
